@@ -13,3 +13,4 @@ def temperature(t):
         print("It's a cool day!") 
     
 temperature(5)
+
